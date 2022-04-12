@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+.user{
+    text-align: center;
+    background-color: #00a884;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: xx-large;
+}
+.blog{  
+   background-color: #9ba2a8;
+    color: white; 
+}
+#post,#logout{
+    padding: 0.5%;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-radius: 12px;
+}
+#logout:hover{
+    background-color: aquamarine;
+}
+#logout:active{
+    background-color: white;
+}
+#post:hover{
+    background-color: aquamarine;
+}
+#post:active{
+    background-color: white;
+}
+.newblog{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#blogpost{
+    padding: 0.5%;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-radius: 12px;
+}
+#blogpost:hover{
+    background-color: aquamarine;
+}
+#blogpost:active{
+    background-color: white;
+}
+textarea{
+    resize: none;
+    width: 60%;
+    height: 500px;
+    font-size: 25px;
+}
+.d-none{
+    display: none;
+}
+.d-block{
+    display: block;
+}
+.del{
+    padding: 0.5%;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-radius: 12px;
+}
+.del:hover{
+    background-color: aquamarine;
+
+}
+.del:active{
+    background-color: white;
+
+}
+.savedblog{
+    
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+.blogCard{
+    margin: 2px;
+    padding: 1rem;
+    border: solid 2px black;
+    background-color: #00a884;
+    margin-bottom: 2%;
+}
+.postdel{
+    padding: 0.5%;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-radius: 12px;
+    margin-left: 95%;
+}
+.postdel:hover{
+    background-color: aquamarine;
+
+}
+.postdel:active{
+    background-color: white;
+}

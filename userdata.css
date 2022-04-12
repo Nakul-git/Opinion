@@ -1,0 +1,37 @@
+body{
+    background-color: #00a884;
+}
+.container {
+    background-color: #fff;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 8%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.pass {
+    padding: 8px;
+    width: 90%;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+}
+
+
+
+.fname,
+.lname {
+    width: 41.75%;
+    padding: 8px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+
+}
